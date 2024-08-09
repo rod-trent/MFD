@@ -6,6 +6,7 @@ My fiction novel, Mistaken for Dead: Rebellion of the Animated, is in the final 
 
 For now, check out the growing list of proposed book covers.
 
-
+https://github.com/rod-trent/MFD/tree/main/Images/Covers
+<br><br>
 
 <p align="center"><img src="https://github.com/rod-trent/MFD/blob/main/Images/Book_Cover_Small.png"></center></p>
