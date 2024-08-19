@@ -1,6 +1,6 @@
 # Mistaken for Dead: Rebellion of the Animated
 
-Welcome to the repository for Mistaken for Dead: Rebellion of the Animated by Rod Trent
+Welcome to the repository for Mistaken for Dead: Rebellion of the Animated by <a href="https://amazon.com/author/rodtrent" target="_blank">Rod Trent</a>
 
 My fiction novel, Mistaken for Dead: Rebellion of the Animated, is in the final stages of writing and will be available in paperback and Kindle/eBook on November 1, 2024. Amazon's Kindle Unlimited members will be able to read it for free.
 
