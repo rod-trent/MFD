@@ -24,4 +24,4 @@ _But unlike the others, Jack awakens with his mind intact. As the serum courses 
 
 <br><br>
 
-<p align="center"><img src="https://github.com/rod-trent/TwinWithin/blob/main/TwinWithinSmallerJPG.png"></center></p>
+<p align="center"><img src="https://github.com/rod-trent/MFD/blob/main/Images/Book_Cover_Small.png"></center></p>
