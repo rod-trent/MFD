@@ -2,7 +2,7 @@
 
 Welcome to the repository for Mistaken for Dead: Rebellion of the Animated by <a href="https://amazon.com/author/rodtrent" target="_blank">Rod Trent</a>
 
-My fiction novel, Mistaken for Dead: Rebellion of the Animated, was released on December 1, 2024. Amazon's Kindle Unlimited members will be able to read it for free.
+My fiction novel, Mistaken for Dead: Rebellion of the Animated, was released on December 1, 2024. Amazon's Kindle Unlimited members can read it for free.
 
 Get it from Amazon: https://amzn.to/3ZE2bhJ 
 
